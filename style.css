@@ -1,0 +1,350 @@
+
+
+
+body {
+    background-image: url(aqua-d9b59c89.png);
+    overflow-x: hidden;   /*Stops you from scrolling to far to the side*/
+    background-size: cover; /*Makes it so there is no empy spots in the background*/
+}
+
+nav {
+    background-image: url(sbhsschool.jpg);
+    text-align: center;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    font-family: Sora;
+}
+
+a {
+    padding: 5px;
+    text-decoration: none;
+}
+
+.second-photo {
+    position: relative;
+    top: 600px;
+    padding: 10px;
+}
+
+.photo-text1 {
+    position: absolute;
+    top: 1000px;
+    left: 900px;
+    width: 900px;
+    color: black;
+}
+
+.abouttext {
+    position: absolute;
+    top: 750px;
+    left: 1200px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+}
+
+
+.contenttext
+
+{
+    position: absolute;
+    top: 2000px;
+    left: 150px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+
+}
+
+
+.Mail{
+
+    position: absolute;
+    top: 2200px;
+    left: 135px;
+    width: 250px;
+    color: black;
+    text-align: right;
+
+}
+
+.Phone{
+
+
+    position: absolute;
+    top: 2250px;
+    left: 90px;
+    width: 250px;
+    color: black;
+    text-align: right;
+
+
+
+}
+
+.PO{
+
+    position: absolute;
+    top: 2300px;
+    left: 145px;
+    width: 250px;
+    color: black;
+    text-align: right;
+
+}
+
+
+.Location{
+
+
+    position: absolute;
+    top: 2370px;
+    left: 145px;
+    width: 250px;
+    color: black;
+    text-align: right;
+
+}
+
+
+.First15vid{
+
+    position: relative;
+    top: 1100px;
+    padding: 10px;
+    right: 800px;
+
+
+
+}
+
+
+
+.first15vid{
+
+
+
+    position: absolute;
+    top: 1600px;
+    left: 900px;
+    width: 900px;
+    color: black;
+
+}
+
+
+.timesanddatestext{
+
+    position: absolute;
+    top: 2200px;
+    left: 1100px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+
+
+}
+
+
+
+.dateandtimePHOTO{
+
+
+
+    position: absolute;
+    top: 2400px;
+    left: 900px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+
+}
+
+.home{
+
+    display: inline-block;
+    padding:10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.home:hover{
+
+
+background-color: grey;
+
+}
+
+
+
+  
+
+
+.invisable{
+
+
+    position: absolute;
+    top: 2700px;
+    left: 1100px;
+    width: 900px;
+    color: black;
+    font-size: 500px;
+    visibility: hidden;
+}
+
+
+.contactgoto {
+
+
+    position: absolute;
+    top: 2000px;
+    left: 300px;
+    width: 900px;
+    color: black;
+    font-size: 500px;
+    visibility: hidden;
+    
+    
+}
+
+
+.nextpage{
+
+        position: absolute;
+    top: 2700px;
+    left: 1100px;
+    width: 900px;
+    color: black;
+    font-size: 500px;
+    
+}
+
+
+
+.Sports{
+
+
+    position: absolute;
+    top: 300px;
+    left: 525px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+
+
+}
+
+
+.Sportstext1 {
+
+
+    position: absolute;
+    top: 700px;
+    left: 150px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+
+
+
+}
+
+
+
+.Athletics {
+
+
+    position: absolute;
+    top: 600px;
+    left: -150px;
+    width: 900px;
+    color: black;
+    
+}
+
+
+.InclusiveCommunity {
+
+    position: absolute;
+    top: 590px;
+    left: 500px;
+    width: 900px;
+    color: black;
+
+}
+
+
+.Sportstext2 {
+
+
+    position: absolute;
+    top: 700px;
+    left: 790px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+
+}
+
+
+.JoinOurLegacy{
+
+
+
+    position: absolute;
+    top: 590px;
+    left: 1115px;
+    width: 900px;
+    color: black;
+
+}
+
+
+
+.Sportstext3{
+
+
+    position: absolute;
+    top: 700px;
+    left: 14px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+
+
+}
+
+
+.Welcome{ 
+     
+    position: absolute;
+    top: 350px;
+    left: 750px;
+    width: 900px;
+    color: black;
+    font-size: 100px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
